@@ -2,7 +2,7 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Projeto guiado #2
 
 Turma Online On34 | Python | Semana 11 | 2024 | <a href="https://www.linkedin.com/in/mayara-moromisato/" target="_blank" rel="noopener noreferrer">Professora Mayara Moromisato</a>
 
