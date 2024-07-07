@@ -4,7 +4,7 @@
 
 # Projeto guiado #2
 
-Turma Online On34 | Python | Semana 11 | 2024 | <a href="https://www.linkedin.com/in/mayara-moromisato/" target="_blank" rel="noopener noreferrer">Professora Mayara Moromisato</a>
+Turma Online On34 | Python | Semana 13 | 2024 | <a href="https://www.linkedin.com/in/mayara-moromisato/" target="_blank" rel="noopener noreferrer">Professora Mayara Moromisato</a>
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
